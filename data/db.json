@@ -15,7 +15,7 @@
     {
       "title": "Tomorrow is interview",
       "details": "learn vue for interview's interview",
-      "complete": false,
+      "complete": true,
       "id": 4
     }
   ]
