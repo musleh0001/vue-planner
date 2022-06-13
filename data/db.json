@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "First create wareframe, then database, then project",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Tomorrow is interview",
+      "details": "learn vue for interview's interview",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
